@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="Label" type="Label" parent="."]
+margin_right = 1000.0
+margin_bottom = 112.0
+text = "PAUSIL"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
